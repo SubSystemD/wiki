@@ -2,7 +2,7 @@
 title: Linux Server | Setup Guide
 description: Learn how to easily setup a linux server
 published: true
-date: 2022-05-18T21:43:37.070Z
+date: 2022-05-18T21:45:50.478Z
 tags: guide, linux, server, setup
 editor: markdown
 dateCreated: 2022-05-11T14:52:57.922Z
@@ -167,7 +167,7 @@ We'll have to edit the ssh daemon config file. It's actually best to work on a c
 sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.d/custom.conf
 sudo nano /etc/ssh/sshd_config.d/custom.conf
 ```
-![linuxserversetupguide_02.png](/asset_guest/linuxserversetupguide_02.png)
+![linuxserversetupguide_02.png](/asset_guest/linuxserversetupguide_02.png){.align-center}
 
 Prepend the following line with a `#`
 ```
