@@ -2,7 +2,7 @@
 title: Linux Server | Setup Guide
 description: Learn how to easily setup a linux server
 published: true
-date: 2022-05-18T11:41:08.681Z
+date: 2022-05-18T21:43:37.070Z
 tags: guide, linux, server, setup
 editor: markdown
 dateCreated: 2022-05-11T14:52:57.922Z
@@ -33,7 +33,7 @@ Install unattended-upgrades then run the `dkpg-reconfigure` command with the fla
 sudo apt install unattended-upgrades
 sudo dpkg-reconfigure --priority=low unattended-upgrades
 ```
-![linuxserversetupguide_01.png](/asset_guest/linuxserversetupguide_01.png)
+![linuxserversetupguide_01.png](/asset_guest/linuxserversetupguide_01.png){.align-center}
 Select <kbd>Yes</kbd> in the Package configuration menu.  
 We can also edit the config file…
 
