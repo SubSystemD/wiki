@@ -2,14 +2,13 @@
 title: Home
 description: SubsystemD Public Wiki - published under CC BY-NC 3.0
 published: true
-date: 2022-05-18T21:32:43.739Z
+date: 2022-05-18T21:37:51.581Z
 tags: home
 editor: markdown
 dateCreated: 2022-05-11T14:52:01.122Z
 ---
 
-# Home
-**My personal wiki for all things IT**
+# Welcome
 
 - [Linux Server *Setup Guide*](/linux/server/setup)
 {.links-list}
