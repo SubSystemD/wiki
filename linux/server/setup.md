@@ -2,7 +2,7 @@
 title: Linux Server | Setup Guide
 description: Learn how to easily setup a linux server
 published: true
-date: 2022-05-19T01:41:53.071Z
+date: 2022-05-19T01:47:35.149Z
 tags: guide, linux, server, setup
 editor: markdown
 dateCreated: 2022-05-11T14:52:57.922Z
@@ -34,6 +34,7 @@ sudo apt install unattended-upgrades
 sudo dpkg-reconfigure --priority=low unattended-upgrades
 ```
 ![linuxserversetupguide_01.png](/asset_guest/linuxserversetupguide_01.png){.align-center}
+
 Select <kbd>Yes</kbd> in the Package configuration menu.  
 We can also edit the config file…
 
@@ -167,7 +168,8 @@ We'll have to edit the ssh daemon config file. It's actually best to work on a c
 sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.d/custom.conf
 sudo nano /etc/ssh/sshd_config.d/custom.conf
 ```
-![linuxserversetupguide_02.png](/asset_guest/linuxserversetupguide_02.png){.align-center}
+
+![linuxserversetupguide_02.png](/asset_guest/linuxserversetupguide_02.png){.align-center}*Opening the config file we can see that almost every line is commented*
 
 Prepend the following line with a `#`
 ```
