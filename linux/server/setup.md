@@ -1,8 +1,8 @@
 ---
-title: Linux Server
+title: Linux Server | Server Guide
 description: Learn how to easily setup a linux server
 published: true
-date: 2022-05-19T13:12:05.678Z
+date: 2022-05-19T13:12:38.890Z
 tags: guide, linux, server, setup
 editor: markdown
 dateCreated: 2022-05-11T14:52:57.922Z
