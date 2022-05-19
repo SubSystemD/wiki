@@ -2,7 +2,7 @@
 title: Linux Server | Setup Guide
 description: Learn how to easily setup a linux server
 published: true
-date: 2022-05-19T01:47:35.149Z
+date: 2022-05-19T01:50:56.385Z
 tags: guide, linux, server, setup
 editor: markdown
 dateCreated: 2022-05-11T14:52:57.922Z
@@ -35,15 +35,12 @@ sudo dpkg-reconfigure --priority=low unattended-upgrades
 ```
 ![linuxserversetupguide_01.png](/asset_guest/linuxserversetupguide_01.png){.align-center}
 
-Select <kbd>Yes</kbd> in the Package configuration menu.  
-We can also edit the config file…
-
+Select <kbd>Yes</kbd> in the Package configuration menu to enable unattended updates.
+We will also open the following config file…
 ```bash
 sudo nano /etc/apt/apt.conf.d/20auto-upgrades
 ```
-
 …and make sure these values are correct.^\[2\]^
-
 ```plaintext
 APT::Periodic::Update-Package-Lists "1";
 APT::Periodic::Unattended-Upgrade "1";
