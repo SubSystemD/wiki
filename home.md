@@ -2,7 +2,7 @@
 title: Home
 description: SubsystemD Public Wiki - published under CC BY-NC 3.0
 published: true
-date: 2022-05-19T13:05:02.431Z
+date: 2022-05-19T13:14:24.372Z
 tags: home
 editor: markdown
 dateCreated: 2022-05-11T14:52:01.122Z
@@ -10,8 +10,8 @@ dateCreated: 2022-05-11T14:52:01.122Z
 
 # Welcome
 
-- [Linux Server*Setup Guide*](/linux/server/setup)
 - [Git*Cheat Sheet*](/git)
+- [Linux Server*Setup Guide*](/linux/server/setup)
 {.links-list}
 
 ![self-description](https://imgs.xkcd.com/comics/self_description.png)
