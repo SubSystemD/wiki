@@ -2,14 +2,14 @@
 title: Linux Server | Setup Guide
 description: Learn how to easily setup a linux server
 published: true
-date: 2022-05-18T21:45:50.478Z
+date: 2022-05-19T01:35:50.763Z
 tags: guide, linux, server, setup
 editor: markdown
 dateCreated: 2022-05-11T14:52:57.922Z
 ---
 
 # Prerequisites
-
+![permanence xkcd](https://imgs.xkcd.com/comics/permanence.png)
 This guide assumes you know very little about Linux. That said you should at least have enough understanding of the shell to be able to type commands and use the `nano` text editor^\[0\]^. Having a grasp of shell navigation, filesystem, services and networking is not required but will definitely help you.
 
 Some of the commands listed below are required to run with elevated privileges. Thus in this guide they are prepended with `sudo`. Use what method your prefer for running elevated commands: typing `sudo` before every command, summoning an elevated interactive shell with `sudo -i` or logging in as root.
