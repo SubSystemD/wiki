@@ -2,13 +2,13 @@
 title: Linux Server | Setup Guide
 description: Learn how to easily setup a linux server
 published: true
-date: 2022-05-19T01:39:26.659Z
+date: 2022-05-19T01:41:53.071Z
 tags: guide, linux, server, setup
 editor: markdown
 dateCreated: 2022-05-11T14:52:57.922Z
 ---
 
-![permanence xkcd](https://imgs.xkcd.com/comics/permanence.png =90%x){.align-center}
+![permanence xkcd](https://imgs.xkcd.com/comics/permanence.png){.align-center}
 # Prerequisites
 This guide assumes you know very little about Linux. That said you should at least have enough understanding of the shell to be able to type commands and use the `nano` text editor^\[0\]^. Having a grasp of shell navigation, filesystem, services and networking is not required but will definitely help you.
 
