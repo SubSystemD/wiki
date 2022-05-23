@@ -1,8 +1,8 @@
 ---
 title: Git
-description: a short git cheat sheet
+description: WIP
 published: false
-date: 2022-05-23T11:40:24.041Z
+date: 2022-05-23T11:40:37.263Z
 tags: git, repo, github, gitlab, bitbucket
 editor: markdown
 dateCreated: 2022-05-19T13:02:17.142Z
