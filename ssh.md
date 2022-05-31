@@ -1,8 +1,8 @@
 ---
 title: ssh
-description: wip
+description: WIP
 published: false
-date: 2022-05-23T11:39:33.652Z
+date: 2022-05-31T09:07:58.903Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-23T11:39:18.496Z
