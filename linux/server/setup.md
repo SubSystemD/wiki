@@ -2,7 +2,7 @@
 title: Linux Server | Server Guide
 description: Learn how to easily setup a linux server
 published: true
-date: 2022-05-19T13:12:38.890Z
+date: 2022-05-31T11:15:58.318Z
 tags: guide, linux, server, setup
 editor: markdown
 dateCreated: 2022-05-11T14:52:57.922Z
@@ -190,7 +190,6 @@ In the sshd config file, search for the line beginning with `Port`, uncomment th
 ```
 Port 69
 ```
-Nice	(￢‿￢ )
 
 Keep in mind that this is considered "security by obscurity". It may help avoid filling your logs when bots scan your common network ports. But it does not **- in any way -** protect you from a motivated attacker that would just scan all your ports.
 
@@ -203,6 +202,15 @@ Do the same for `ChallengeResponseAuthentication` and `usePAM`.^\[8\]^
 PasswordAuthentication no
 ChallengeResponseAuthentication no
 usePAM no
+```
+
+# Set static IP
+
+Unless you're running a VPS - in which case your network config will come baked in - you'll want to to set your server to use a static IP adress. A fixed IP address will prevent the DHCP server from changing your server's IP configuration.
+
+Check you current ip address
+```bash
+ip -br -4 a
 ```
 
 # Bibliography
