@@ -2,7 +2,7 @@
 title: run cheat sheet
 description: Extensive of useful run commands
 published: false
-date: 2022-07-06T17:09:51.370Z
+date: 2022-07-06T17:13:41.827Z
 tags: windows, execute, cmd
 editor: markdown
 dateCreated: 2022-07-06T17:04:28.695Z
@@ -33,8 +33,13 @@ dateCreated: 2022-07-06T17:04:28.695Z
 | charmap | Character Map |
 | mrt | Malicious Software Removal Tool |
 | devmgmt.msc | Device Manager |
-
+| netplwiz | Manage User Accounts |
+| services.msc | Services |
+| osk | On-Screen Keyboard |
+| snippingtool | Snipping Tool |
+| mdsched | Windows Memory Diagnostic |
 
 # References
 https://support.microsoft.com/en-us/topic/description-of-control-panel-cpl-files-4dc809cd-5063-6c6d-3bee-d3f18b2e0176
 https://geekflare.com/windows-run-commands/
+https://lizardsystems.com/articles/112-windows-run-commands/
