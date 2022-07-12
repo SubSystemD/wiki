@@ -1,8 +1,8 @@
 ---
 title: run cheat sheet
 description: Extensive of useful run commands
-published: false
-date: 2022-07-12T09:17:08.859Z
+published: true
+date: 2022-07-12T09:17:33.107Z
 tags: windows, execute, cmd
 editor: markdown
 dateCreated: 2022-07-06T17:04:28.695Z
