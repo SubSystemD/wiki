@@ -2,7 +2,7 @@
 title: run cheat sheet
 description: Extensive of useful run commands
 published: false
-date: 2022-07-12T09:17:03.619Z
+date: 2022-07-12T09:17:08.859Z
 tags: windows, execute, cmd
 editor: markdown
 dateCreated: 2022-07-06T17:04:28.695Z
@@ -14,7 +14,6 @@ dateCreated: 2022-07-06T17:04:28.695Z
 | \ | explorer at system drive root |
 | . | explorer at current user Home |
 | .. | explorer at Users folder |
-
 | resmon | Ressource Monitor |
 | msinfo32 | System Information |
 | msconfig | System Configuration |
