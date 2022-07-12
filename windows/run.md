@@ -2,7 +2,7 @@
 title: run cheat sheet
 description: Extensive of useful run commands
 published: false
-date: 2022-07-06T17:13:41.827Z
+date: 2022-07-12T09:17:03.619Z
 tags: windows, execute, cmd
 editor: markdown
 dateCreated: 2022-07-06T17:04:28.695Z
@@ -14,30 +14,51 @@ dateCreated: 2022-07-06T17:04:28.695Z
 | \ | explorer at system drive root |
 | . | explorer at current user Home |
 | .. | explorer at Users folder |
+
+| resmon | Ressource Monitor |
+| msinfo32 | System Information |
+| msconfig | System Configuration |
+| services.msc | Services |
+| optionalfeatures | Windows Features |
+| control update | Windows Update |
+| devmgmt.msc | Device Manager |
+| mdsched | Windows Memory Diagnostic |
+| cleanmgr | Disk Cleanup utility |
+| sdclt | Backup and Restore |
+| mrt | Malicious Software Removal Tool |
+| netplwiz | Manage User Accounts |
+| regedit | Registry Editor |
 | control | control panel |
 | appwiz.cpl | Programs and Features panel |
-| cleanmgr | Disk Cleanup utility |
-| resmon | Ressource Monitor |
-| main.cpl | mouse settings |
-| mstsc | Remote Desktop |
-| msinfo32 | System Information |
-| control update | Windows Update |
 | desk.cpl | Display Settings |
+| main.cpl | mouse settings |
 | ncpa.cpl | Network Connections |
-| msconfig | System Configuration |
-| sdclt | Backup and Restore |
-| regedit | Registry Editor |
-| sysdm.cpl | System Properties |
 | powercfg.cpl | Power Options |
-| optionalfeatures | Windows Features |
-| charmap | Character Map |
-| mrt | Malicious Software Removal Tool |
-| devmgmt.msc | Device Manager |
-| netplwiz | Manage User Accounts |
-| services.msc | Services |
-| osk | On-Screen Keyboard |
+| sysdm.cpl | System Properties |
+| mstsc | Remote Desktop |
 | snippingtool | Snipping Tool |
-| mdsched | Windows Memory Diagnostic |
+| osk | On-Screen Keyboard |
+| charmap | Character Map |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # References
 https://support.microsoft.com/en-us/topic/description-of-control-panel-cpl-files-4dc809cd-5063-6c6d-3bee-d3f18b2e0176
