@@ -2,7 +2,7 @@
 title: run cheat sheet
 description: Extensive of useful run commands
 published: true
-date: 2022-08-11T09:34:59.585Z
+date: 2022-08-11T09:35:14.655Z
 tags: windows, execute, cmd
 editor: markdown
 dateCreated: 2022-07-06T17:04:28.695Z
@@ -28,7 +28,7 @@ dateCreated: 2022-07-06T17:04:28.695Z
 | netplwiz | Manage User Accounts |
 | regedit | Registry Editor |
 | control | control panel |
-| fsmgmt.msc | Shared Folder Management Console |
+| fsmgmt.msc | Shared Folder Management |
 | appwiz.cpl | Programs and Features panel |
 | desk.cpl | Display Settings |
 | main.cpl | mouse settings |
