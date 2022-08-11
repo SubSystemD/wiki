@@ -2,13 +2,13 @@
 title: run cheat sheet
 description: Extensive of useful run commands
 published: true
-date: 2022-08-11T09:35:14.655Z
+date: 2022-08-11T09:35:33.895Z
 tags: windows, execute, cmd
 editor: markdown
 dateCreated: 2022-07-06T17:04:28.695Z
 ---
 
-# Cheat Sheet
+# Run Cheat Sheet
 | Command | Interface |
 |---|---|
 | \ | explorer at system drive root |
