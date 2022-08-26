@@ -2,7 +2,7 @@
 title: run cheat sheet
 description: Extensive of useful run commands
 published: true
-date: 2022-08-11T09:35:33.895Z
+date: 2022-08-26T13:17:33.689Z
 tags: windows, execute, cmd
 editor: markdown
 dateCreated: 2022-07-06T17:04:28.695Z
@@ -23,6 +23,7 @@ dateCreated: 2022-07-06T17:04:28.695Z
 | devmgmt.msc | Device Manager |
 | mdsched | Windows Memory Diagnostic |
 | cleanmgr | Disk Cleanup utility |
+| diskmgmt.msc | Disk Management |
 | sdclt | Backup and Restore |
 | mrt | Malicious Software Removal Tool |
 | netplwiz | Manage User Accounts |
